@@ -1,7 +1,7 @@
-# News Manager
+# News4U-News Manager
 
 ## Introduction
-News Manager is a real time news scraping and recommendation system. This system uses a news pipeline to scrape latest news from various of resources such CNN, BBC and Bloomberg etc. To render the news, this system integrates with a single-page web application built by React. In addition, it generates a customized news list for each user based on news topics. To achieve this function, a click log processor collects users’ click logs to update a news preference model for each user, and an offline training pipeline models news topics.
+News4U-News Manager is a real time news scraping and recommendation system. This system uses a news pipeline to scrape latest news from various of resources such CNN, BBC and Bloomberg etc. To render the news, this system integrates with a single-page web application built by React. In addition, it generates a customized news list for each user based on news topics. To achieve this function, a click log processor collects users’ click logs to update a news preference model for each user, and an offline training pipeline models news topics.
 
 ![demo](demo.png)
 
